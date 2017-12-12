@@ -1,2 +1,2 @@
 # cpl_utils
-This repo will be restructured and update.
+This repo will be restructured and updated soon.
